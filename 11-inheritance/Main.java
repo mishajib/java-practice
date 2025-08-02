@@ -1,3 +1,6 @@
+// Inheritance is a mechanism where one class (child/subclass) can inherit properties and behaviors (fields and methods)
+// from another class (parent/superclass).
+
 public class Main {
     public static void main(String[] args) {
         Student student = new Student("Al-Amin", 25, 50);
