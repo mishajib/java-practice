@@ -2,7 +2,7 @@
 public class Datatypes {
 
     public static void main(String[] args) {
-        // Premitive data-types
+        // Primitive data-types
         byte age = 25;
         System.out.println("Age is: " + age);
 
