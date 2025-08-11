@@ -1,4 +1,5 @@
-/.vscode
 /.idea
 **/*.class
 /java-practice.iml
+config.bat
+node_modules
